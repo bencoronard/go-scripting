@@ -22,4 +22,7 @@ go.work
 
 .env
 .vscode/
-.DS_Store
+.DS_Store/
+
+# Go output
+bin/
