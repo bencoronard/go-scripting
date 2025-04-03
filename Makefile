@@ -1,4 +1,4 @@
-.PHONY: run build
+.PHONY: run build start
 
 ENV_FILE := .env
 BINARY := bin/app
